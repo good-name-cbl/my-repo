@@ -1,4 +1,4 @@
-name: Hello
+name: Test Hello
 on: workflow_dispatch
 jobs:
     hello:
