@@ -1,7 +1,7 @@
-name: Test Hello
+name: Hello
 on: workflow_dispatch
 jobs:
-    hello:
+    hello-test:
         runs-on: ubuntu-latest
         steps:
             - run: echo "Hello, world"
